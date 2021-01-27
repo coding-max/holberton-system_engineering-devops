@@ -1,1 +1,2 @@
-cd -P
+#!/bin/bash
+"cd"
