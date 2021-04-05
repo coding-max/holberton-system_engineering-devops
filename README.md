@@ -1,5 +1,5 @@
 <div align=center>
-    <img style="height:50px;text-align:center" src="https://raw.githubusercontent.com/coding-max/hbtn_config/main/assets/hbtn_logo_color.svg" alt="Holberton School"/>
+    <img style="height:30px;text-align:center" src="https://raw.githubusercontent.com/coding-max/hbtn_config/main/assets/hbtn_logo_color.svg" alt="Holberton School"/>
     <h1 align="center">System engineering & DevOps</h1>
 </div>
 
