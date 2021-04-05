@@ -6,6 +6,9 @@
 
 ![Holberton School](https://raw.githubusercontent.com/coding-max/hbtn_config/main/assets/hbtn_logo_color.png){:width="30px"}
 
+![](https://raw.githubusercontent.com/coding-max/hbtn_config/main/assets/hbtn_logo_color.png | width=30)
+
+![]((https://raw.githubusercontent.com/coding-max/hbtn_config/main/assets/hbtn_logo_color.png =100x30)
 
 ### Bash
 
