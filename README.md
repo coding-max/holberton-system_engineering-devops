@@ -11,3 +11,4 @@
 - [0x01](https://github.com/coding-max/holberton-system_engineering-devops/tree/main/0x01-shell_permissions). Shell, permissions  
 - [0x02](https://github.com/coding-max/holberton-system_engineering-devops/tree/main/0x02-shell_redirections). Shell, init files, variables and expansions  
 - [0x03](https://github.com/coding-max/holberton-system_engineering-devops/tree/main/0x03-shell_variables_expansions). Shell, I/O Redirections and filters  
+- [0x04](https://github.com/coding-max/holberton-system_engineering-devops/tree/main/0x04-loops_conditions_and_parsing). Loops, conditions and parsing  
