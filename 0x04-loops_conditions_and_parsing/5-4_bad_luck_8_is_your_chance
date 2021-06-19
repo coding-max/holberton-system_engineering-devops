@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # loops from 1 to 10 and:
 # displays "bad luck" for the 4th iteration and "good luck" for the 8th iteration.
 # displays "Holberton School" for the other iterations.
@@ -7,10 +6,10 @@
 i=1
 while ((i <= 10))
 do
-    if (($i != 4 && $i != 8))
+    if ((i != 4 && i != 8))
     then
         echo 'Holberton School'
-    elif (($i == 4))
+    elif ((i == 4))
     then
         echo 'bad luck'
     else
