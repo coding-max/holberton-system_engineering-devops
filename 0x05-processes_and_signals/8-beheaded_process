@@ -2,4 +2,4 @@
 # kills the process 7-highlander.
 
 process_id=$(pgrep -f './7-highlander')
-kill --signal SIGKILL "$process_id"
+kill -s SIGKILL "$process_id"
