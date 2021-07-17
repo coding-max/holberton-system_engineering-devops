@@ -25,7 +25,7 @@ You must use:
 <div align=center>  
     <img  
     style="text-align:center"  
-    src="https://raw.githubusercontent.com/coding-max/hbtn_config/main/0x09-web_infrastructure_design/assets/0-simple_web_stack.png"  
+    src="https://raw.githubusercontent.com/coding-max/holberton-system_engineering-devops/main/0x09-web_infrastructure_design/assets/0-simple_web_stack.png"  
     alt="simple web infrastructure"/>  
 </div>
 <br>
@@ -45,7 +45,7 @@ You must add:
 <div align=center>  
     <img  
     style="text-align:center"  
-    src="https://raw.githubusercontent.com/coding-max/hbtn_config/main/0x09-web_infrastructure_design/assets/1-distributed_web_infrastructure.png"  
+    src="https://raw.githubusercontent.com/coding-max/holberton-system_engineering-devops/main/0x09-web_infrastructure_design/assets/1-distributed_web_infrastructure.png"  
     alt="distributed web infrastructure"/>  
 </div>
 <br>
@@ -62,6 +62,6 @@ You must add:
 <div align=center>  
     <img  
     style="text-align:center"  
-    src="https://raw.githubusercontent.com/coding-max/hbtn_config/main/0x09-web_infrastructure_design/assets/2-secured_and_monitored_web_infrastructure.png"  
+    src="https://raw.githubusercontent.com/coding-max/holberton-system_engineering-devops/main/0x09-web_infrastructure_design/assets/2-secured_and_monitored_web_infrastructure.png"  
     alt="secured and monitored web infrastructure"/>  
 </div>
