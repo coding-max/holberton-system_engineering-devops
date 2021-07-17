@@ -25,6 +25,43 @@ You must use:
 <div align=center>  
     <img  
     style="text-align:center"  
-    src="https://i.imgur.com/iJKoxCx.png"  
-    alt="Distributed web infrastructure"/>  
+    src="https://raw.githubusercontent.com/coding-max/hbtn_config/main/0x09-web_infrastructure_design/assets/0-simple_web_stack.png"  
+    alt="simple web infrastructure"/>  
+</div>
+<br>
+
+### 1. Distributed web infrastructure
+
+Design a three server web infrastructure that hosts the website `www.foobar.com`.
+
+You must add:
+- 2 servers  
+- 1 web server (Nginx)  
+- 1 application server  
+- 1 load-balancer (HAproxy)  
+- 1 set of application files (your code base)  
+- 1 database (MySQL)  
+<br>
+<div align=center>  
+    <img  
+    style="text-align:center"  
+    src="https://raw.githubusercontent.com/coding-max/hbtn_config/main/0x09-web_infrastructure_design/assets/1-distributed_web_infrastructure.png"  
+    alt="distributed web infrastructure"/>  
+</div>
+<br>
+
+### 0. Simple web stack
+
+Design a three server web infrastructure that hosts the website `www.foobar.com`, it must be secured, serve encrypted traffic, and be monitored.
+
+You must add:
+- 3 firewalls  
+- 1 SSL certificate to serve www.foobar.com over HTTPS  
+- 3 monitoring clients (data collector for Sumologic or other monitoring services)  
+<br>
+<div align=center>  
+    <img  
+    style="text-align:center"  
+    src="https://raw.githubusercontent.com/coding-max/hbtn_config/main/0x09-web_infrastructure_design/assets/2-secured_and_monitored_web_infrastructure.png"  
+    alt="secured and monitored web infrastructure"/>  
 </div>
