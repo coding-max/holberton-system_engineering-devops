@@ -22,4 +22,7 @@
 
 - [0x07](https://github.com/coding-max/holberton-system_engineering-devops/tree/main/0x07-networking_basics). Networking basics #0  
 - [0x08](https://github.com/coding-max/holberton-system_engineering-devops/tree/main/0x08-networking_basics_2). Networking basics #1  
+
+### Web Stack
+
 - [0x09](https://github.com/coding-max/holberton-system_engineering-devops/tree/main/0x09-web_infrastructure_design). Web infrastructure design  
