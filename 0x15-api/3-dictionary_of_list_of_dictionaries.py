@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """using the JSONPlaceholder API:
-   returns information about the TODO list progress for a given employee ID"""
+   export information about the TODO list progress for all employees IDs
+   to a file (JSON format), file name must be: todo_all_employees.json"""
 
 import json
 import requests
